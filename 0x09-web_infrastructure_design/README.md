@@ -1,0 +1,1 @@
+This flowchart provides a sequential representation of the steps involved in designing and implementing a web infrastructure. Adjust the details based on the specific requirements and technologies used in your Alx project
